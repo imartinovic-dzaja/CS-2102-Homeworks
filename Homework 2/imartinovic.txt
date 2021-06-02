@@ -1,0 +1,74 @@
+imartinovic - hw2
+
+Total Points Earned
+Theme: AdvancedRound isWinner, Earned Points: 6, Total Available Points: 6
+Theme: finalWinnerIsValid, Earned Points: 6, Total Available Points: 6
+Theme: getMatchWinners, Earned Points: 4, Total Available Points: 4
+Theme: getNumWinners, Earned Points: 4, Total Available Points: 4
+Theme: InitRound isWinner, Earned Points: 6, Total Available Points: 6
+
+Our tests on your code:
+Name: AdvancedRound isWinner #3; Result: PASSED
+Theme: AdvancedRound isWinner; Worth: 2; Earned: 2
+Description:
+ Testing isWinner() method in AdvancedRound when the list of  is not empty and the parameter is a winner.
+
+Name: AdvancedRound isWinner #1; Result: PASSED
+Theme: AdvancedRound isWinner; Worth: 2; Earned: 2
+Description:
+ Testing isWinner() method in AdvancedRound when the list of  is empty.
+
+Name: AdvancedRound isWinner #2; Result: PASSED
+Theme: AdvancedRound isWinner; Worth: 2; Earned: 2
+Description:
+ Testing isWinner() method in AdvancedRound when the list of  is not empty but the parameter is not a winner.
+
+Name: finalWinnerIsValid #3; Result: PASSED
+Theme: finalWinnerIsValid; Worth: 2; Earned: 2
+Description:
+ Testing finalWinnerIsValid() method when the parameter won enough rounds.
+
+Name: finalWinnerIsValid #1; Result: PASSED
+Theme: finalWinnerIsValid; Worth: 2; Earned: 2
+Description:
+ Testing finalWinnerIsValid() method when the parameter won no rounds.
+
+Name: finalWinnerIsValid #2; Result: PASSED
+Theme: finalWinnerIsValid; Worth: 2; Earned: 2
+Description:
+ Testing finalWinnerIsValid() method when the parameter won rounds but not enough.
+
+Name: getMatchWinners #2; Result: PASSED
+Theme: getMatchWinners; Worth: 2; Earned: 2
+Description:
+ Testing getMatchWinners() method when the list of  is not empty.
+
+Name: getMatchWinners #1; Result: PASSED
+Theme: getMatchWinners; Worth: 2; Earned: 2
+Description:
+ Testing getMatchWinners() method when the list of  is empty.
+
+Name: getNumWinners #2; Result: PASSED
+Theme: getNumWinners; Worth: 2; Earned: 2
+Description:
+ Testing getNumWinners() method when the list of  is not empty.
+
+Name: getNumWinners #1; Result: PASSED
+Theme: getNumWinners; Worth: 2; Earned: 2
+Description:
+ Testing getMatchWinners() method when the list of  is empty.
+
+Name: InitRound isWinner #3; Result: PASSED
+Theme: InitRound isWinner; Worth: 2; Earned: 2
+Description:
+ Testing isWinner() method in InitRound when the list of  is not empty and the parameter is a winner.
+
+Name: InitRound isWinner #1; Result: PASSED
+Theme: InitRound isWinner; Worth: 2; Earned: 2
+Description:
+ Testing isWinner() method in InitRound when the list of  is empty.
+
+Name: InitRound isWinner #2; Result: PASSED
+Theme: InitRound isWinner; Worth: 2; Earned: 2
+Description:
+ Testing isWinner() method in InitRound when the list of  is not empty but the parameter is not a winner.

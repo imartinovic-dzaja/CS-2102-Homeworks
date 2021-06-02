@@ -1,0 +1,12 @@
+Questions regarding homework
+
+addWriteIn() - in the screen method do we pass in the candidate the user already entered or do we
+			   ask the user to re-enter the candidate they want to add (otherwise there would be no 
+			   point of the exception)
+screen() 	 - do we call the function again once the person has successfully voted (presumably to let the
+		  	   the next person vote
+			   
+javaDoc 	 - do we javaDoc exceptions 
+
+when writing a getter for Ballout - do we return the actual linkedlist or do we return a copy?
+
